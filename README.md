@@ -6,7 +6,7 @@ This project is a Python-based tool designed to automate the creation of PowerPo
 ## Future Plans. 
 Upload own images to powerpoint. Make AI generate text and presentation based on those images. 
 
-An example of a generated slide. 
+An example of a generated slide using SDXL3.5 Turbo 8bit on M1 MacBook Pro 16GB Ram
 "![Your Image](https://raw.githubusercontent.com/SurgeonTalus/PPTX_GenerereGlose-ving/main/Gloseo%CC%88ving.png)"
 
 ## Features
