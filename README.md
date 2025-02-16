@@ -1,6 +1,8 @@
 Advanced Presentation Generator with Draw Things API and LM Studio Integration
 
-Lange tekster fungerer ikke.  NY LØSNING Bruk Grpc for å unngå Json error. 
+## Lange tekster fungerer ikke.  
+## NY LØSNING Bruk Grpc for å unngå Json error. 
+
 ## Overview
 This project is a Python-based tool designed to automate the creation of PowerPoint presentations. It utilizes the Draw Things API for generating custom images and LM Studio for advanced text completion. The tool processes input from a specified folder (`/Users/sondre/Downloads/gloser`), generates images and text, removes image backgrounds, and arranges the content into a beautifully formatted PowerPoint presentation.
 
